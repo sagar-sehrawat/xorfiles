@@ -10,3 +10,7 @@
    ```bash
    git clone https://github.com/sagar-sehrawat/xorfiles.git
 
+   cd xorfiles
+
+   python3 xorfiles.py -h
+
